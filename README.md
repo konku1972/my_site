@@ -1,2 +1,2 @@
 # my_site
-Testin my site
+Testing my site
